@@ -1,10 +1,10 @@
-this is virtual X
+# virtual X
 
 Using VirtualX you can get started with a working project in matter of minutes
 
 virtualX includes following file
-jQuery
-jQuery ui
-Angular js
-dojo toolkit
-VirtualX also includes Less  & Handelbars
+* jQuery
+* jQuery ui
+* dojo toolkit
+
+#### VirtualX also includes Less  & Handelbars
